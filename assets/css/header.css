@@ -10,7 +10,13 @@
 }
 
 .middle-header {
-    display: none;
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.middle-header .nav-btn {
+    margin-right: 2rem;
 }
 
 .left-header {
