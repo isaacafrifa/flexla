@@ -1,3 +1,9 @@
+/* Prevent fullpage scroll when navbar is-active */
+#myfullpage.no-scroll{
+    overflow-y: hidden;
+    max-height: 100vh;
+}
+
 .section {
     height: 100vh;
     width: 100%;

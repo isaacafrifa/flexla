@@ -8,8 +8,7 @@
 }
 
 html {
-    font-size: 62.5%;
-    /*make 1rem = 10px */
+    font-size: 62.5%;  /*makes 1rem = 10px */
     line-height: 1.15;
 }
 
@@ -25,9 +24,3 @@ a:visited {
     text-decoration: none;
 }
 
-/**
- * Render the `main` element consistently in IE.
- */
-main {
-    display: block;
-}
